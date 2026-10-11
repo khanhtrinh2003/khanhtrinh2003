@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Product-minded engineer building useful software from first principles
+### Product-minded engineer building useful software
 
-I design and ship focused products across education, language learning, and business workflows — from database models and APIs to polished browser experiences and production operations.
+I design and ship focused products across education and language learning — from database models and APIs to polished browser experiences and production operations.
 
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -14,62 +14,49 @@ I design and ship focused products across education, language learning, and busi
 
 </div>
 
-## What I build
+## What I care about
 
-- **Learning products** that turn complicated material into practical, repeatable practice.
-- **Content systems** for importing, enriching, organizing, and publishing structured media.
-- **Reliable web applications** with clear domain boundaries, careful data handling, and production-minded operations.
-- **Human-friendly interfaces** that make complex workflows feel calm and obvious.
+- Learning products that turn complicated material into practical, repeatable practice.
+- Content systems that preserve quality while they scale.
+- Reliable web applications with clear domain boundaries.
+- Interfaces that make complex workflows feel calm and obvious.
 
 ## Selected work
 
-### [Lissenne](https://lissenne.com)
+### [Lissenne](https://lissenne.com) · language learning
 
 An ambitious dictation and language-practice platform for learners working with real audio and authentic content.
 
-**Highlights:** Django 6 · React/TypeScript players · PostgreSQL · Celery · Docker · multilingual content pipelines · flashcards · learning analytics
+**Django 6 · React/TypeScript · PostgreSQL · Celery · Docker**
 
-### Talyxion
+Dictation and language practice built around real audio, authentic content, flashcards, and deliberate repetition.
 
-An education platform combining structured learning content with investment-banking explainers and guided study workflows.
+### [Talyxion](https://github.com/khanhtrinh2003/Talyxion) · education
 
-**Highlights:** domain-focused product design · content architecture · interactive learning modules · reusable curriculum systems
+Structured learning content and investment-banking explainers shaped into guided study workflows.
 
-### Tranipola
+**Content architecture · interactive modules · curriculum systems**
 
-A production Django application with account workflows, payment integrations, and operational safeguards around webhooks and deployment.
-
-**Highlights:** Django · PostgreSQL · payment flows · webhook security · production operations
-
-### Vinhhai
-
-A Vietnamese-language administration system with role-based access control and clearly separated business domains.
-
-**Highlights:** Django · permissions · admin workflows · Vietnamese-first UX · maintainable domain structure
-
-## Engineering principles
+## How I work
 
 > Make the useful path obvious.
 
 - Model the domain before polishing the interface.
-- Prefer boring, observable infrastructure over clever infrastructure.
+- Prefer observable infrastructure over clever infrastructure.
 - Treat content quality and data integrity as product features.
-- Keep user-facing flows fast, clear, and forgiving.
-- Build for the next person who has to operate the system — including future me.
+- Build the useful path first, then make it delightful.
 
-## Currently exploring
+## Exploring
 
 - Better practice loops for pronunciation, listening, and active recall
 - Content tooling that preserves editorial quality at scale
 - Local-first experiences that remain useful under imperfect connectivity
 - Small, composable systems that can grow without losing their shape
 
-## A little more
-
-I enjoy the space where product thinking, language learning, and pragmatic engineering overlap. If you are building something thoughtful in that space, I would be happy to compare notes.
+I enjoy the space where product thinking, language learning, and pragmatic engineering overlap.
 
 <div align="center">
 
-### Build something that earns its place in someone's day.
+### Build things that earn their place in someone's day.
 
 </div>
