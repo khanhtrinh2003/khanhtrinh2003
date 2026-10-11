@@ -32,17 +32,17 @@ Dictation · listening · flashcards · learning loops
 
 Django 6 · React/TypeScript · PostgreSQL · Celery · Docker
 
-### [Talyxion](https://github.com/khanhtrinh2003/Talyxion) — structured study for difficult material
+### [Talyxion](https://github.com/khanhtrinh2003/Talyxion) — copy trading without custody
 
-Talyxion explores how dense subjects can become clearer through structured content, interactive explainers, and guided study workflows.
+Talyxion is a quant-fintech platform for alpha research, copy trading, and a non-custodial DEX desk. Users can connect their own venue account or wallet, follow trading strategies, and keep control of their assets while the platform coordinates the workflow.
 
 **Product**
 
-Curriculum · explainers · guided study
+Copy trading · alpha research · non-custodial DEX desk
 
 **Focus**
 
-Content architecture · reusable modules · clarity
+Wallet ownership · trading workflows · risk controls
 
 ## How I work
 
