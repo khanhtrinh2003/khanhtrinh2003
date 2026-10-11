@@ -22,6 +22,8 @@ I care about the parts that make a product last: a clear domain model, content t
 
 ### [Lissenne](https://lissenne.com) — language practice, grounded in real audio
 
+<a href="https://lissenne.com"><img src="https://image.thum.io/get/width/1200/crop/720/https://lissenne.com/" alt="Lissenne product preview" width="100%" /></a>
+
 Lissenne turns authentic audio into focused dictation and language-practice loops. It combines multilingual content, interactive React players, flashcards, and deliberate repetition in one Django product.
 
 **Product**
@@ -35,6 +37,8 @@ Django 6 · React/TypeScript · PostgreSQL · Celery · Docker
 [Read the case study →](docs/lissenne.md)
 
 ### [Talyxion](https://talyxion.com) — copy trading without custody
+
+<a href="https://talyxion.com"><img src="https://image.thum.io/get/width/1200/crop/720/https://talyxion.com/" alt="Talyxion product preview" width="100%" /></a>
 
 Talyxion is a quant-fintech platform for alpha research, copy trading, and a non-custodial DEX desk. Users can connect their own venue account or wallet, follow trading strategies, and keep control of their assets while the platform coordinates the workflow.
 
