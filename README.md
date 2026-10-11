@@ -32,9 +32,13 @@ Dictation · listening · flashcards · learning loops
 
 Django 6 · React/TypeScript · PostgreSQL · Celery · Docker
 
-### [Talyxion](https://github.com/khanhtrinh2003/Talyxion) — copy trading without custody
+[Read the case study →](docs/lissenne.md)
+
+### [Talyxion](https://talyxion.com) — copy trading without custody
 
 Talyxion is a quant-fintech platform for alpha research, copy trading, and a non-custodial DEX desk. Users can connect their own venue account or wallet, follow trading strategies, and keep control of their assets while the platform coordinates the workflow.
+
+[Read the case study →](docs/talyxion.md)
 
 **Product**
 
@@ -63,18 +67,11 @@ Keep it reliable in production
 - Better practice loops for pronunciation, listening, and active recall
 - Content tooling that preserves editorial quality at scale
 - Local-first experiences that remain useful under imperfect connectivity
-- Local-first experiences for imperfect connectivity
 
 <div align="center">
 
 **Build things that earn their place in someone's day.**
 
-<a href="https://lissenne.com">Live product</a> · <a href="https://github.com/khanhtrinh2003/Talyxion">Talyxion on GitHub</a>
-
-</div>
-
-<div align="center">
-
-### Build things that earn their place in someone's day.
+<a href="https://lissenne.com">Lissenne</a> · <a href="https://talyxion.com">Talyxion</a>
 
 </div>
